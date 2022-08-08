@@ -233,4 +233,4 @@ There are 3 different elevator types, public floors, restricted floors (which yo
 
 #
 
-[Preview:](https://i.imgur.com/TYLJbjH.jpeg)  
+[Preview:](https://youtu.be/8k73dfuoIJA)  
