@@ -25,11 +25,11 @@ A simple elevator script that's easy to configure and add new locations too. If 
 </p>
 
 <p align="center">
-* Toggles for deleting zones on script restart (Useful for adding new floors)
-* Toggle to show all elevator zones
-* Toggle vehicle teleport on/off
-* Toggle qb-target or radial menu use
-* There are 3 different elevator types, public floors, restricted floors (which you can lock to jobs/gangs/citizenids/items), and job/grade restricted floors
+* Toggles for deleting zones on script restart (Useful for adding new floors)  
+* Toggle to show all elevator zones  
+* Toggle vehicle teleport on/off  
+* Toggle qb-target or radial menu use  
+* There are 3 different elevator types, public floors, restricted floors (which you can lock to jobs/gangs/citizenids/items), and job/grade restricted floors  
 </p>
 
 #
@@ -233,11 +233,13 @@ A simple elevator script that's easy to configure and add new locations too. If 
 
 #
 
-<p align="center"> You can also lock the floors to items! Here's an example:
+<p align="center">  
 
-[Preview:](https://i.imgur.com/TYLJbjH.jpeg)
+[Preview:](https://i.imgur.com/TYLJbjH.jpeg)  
 
 </p>
+
+
 
 
 
