@@ -1,11 +1,8 @@
-![head.png](https://i.imgur.com/TYLJbjH.jpeg)
-#
-<h2 align="center"> MB Elevators:</h2>
+<h2 align="center"> AD Elevators:</h2>
 
 <p align="center">
-<a href="https://www.discord.gg/cHd2cvMYZF"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord:&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
-<a href="https://github.com/MB-Development2022"><img src="https://img.shields.io/github/followers/MB-Development2022?color=d63f50&label=Follow:&labelColor=000000&logo=github&logoColor=FFFFFF&style=flat-square"></a>
-<a href="https://https://github.com/MB-Development2022/mb-elevators"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022/mb-elevators&label=Visitors:&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
+<a href="https://github.com/MB-Development2022"><img src="https://img.shields.io/github/followers/Astroid-Development?color=d63f50&label=Follow:&labelColor=000000&logo=github&logoColor=FFFFFF&style=flat-square"></a>
+<a href="https://https://github.com/MB-Development2022/mb-elevators"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Astroid-Development/ad-elevators&label=Visitors:&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 </p>
 
 #
