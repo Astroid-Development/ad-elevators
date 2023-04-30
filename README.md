@@ -1,11 +1,5 @@
 <h2 align="center"> AD Elevators (NEW UPDATE SOON):</h2>
 
-<p align="center">
-<a href="https://github.com/MB-Development2022"><img src="https://img.shields.io/github/followers/Astroid-Development?color=d63f50&label=Follow:&labelColor=000000&logo=github&logoColor=FFFFFF&style=flat-square"></a>
-<a href="https://https://github.com/MB-Development2022/mb-elevators"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Astroid-Development/ad-elevators&label=Visitors:&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
-</p>
-
-#
 <h2 align="center"> Dependencies:</h2>
 
 <p align="center">
