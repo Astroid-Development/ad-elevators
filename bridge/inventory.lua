@@ -6,21 +6,19 @@ if GetResourceState("ox_inventory") == "started" then
 elseif GetResourceState("qb-inventory") == "started" or GetResourceState("lj-inventory") == "started" then
 	function HasItemAccess(Items)
 		local HasItem = false
-		if Restricted[Zone].Item then 
-			for k,v in pairs(Restricted[Zone].Item) do 
-				QBCore.Functions.TriggerCallback("QBCore:HasItem", function(HasItem)
-					if HasItem then
-						HasItems = true
-					else
-						HasItems = false
-					end
-				end, v)
-				Wait(100)
-				if HasItems then
-					return true
+		for ID, Item in pairs(Items) do 
+			QBCore.Functions.TriggerCallback("QBCore:HasItem", function(HasItem)
+				if HasItem then
+					HasItems = true
 				else
-					return false
+					HasItems = false
 				end
+			end, Item)
+			Wait(100)
+			if HasItems then
+				return true
+			else
+				return false
 			end
 		end
 	end
