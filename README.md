@@ -16,6 +16,4 @@
 
 #
 
-[Preview:](https://youtu.be/8k73dfuoIJA)  
-
-I'll work on a new preview soon :)
+[Preview:](https://youtu.be/_SGDciSknyI)  
